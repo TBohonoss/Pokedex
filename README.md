@@ -1,1 +1,1 @@
-## Criando uma Pokedex comm HTML, CSS e JavaScript.
+## Criando uma Pokedex com HTML, CSS e JavaScript.
