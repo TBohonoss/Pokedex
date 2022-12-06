@@ -21,14 +21,10 @@
     padding: 1rem;
 }
 
-.green {
+.pokemon {
     margin: 0.5rem;
     background-color: #49D0B0;
     
-}
-
-.red {
-    background-color: rgb(225, 105, 105);
 }
 
 .pokemons li img {
